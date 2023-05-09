@@ -1,0 +1,72 @@
+body{
+	background-image: url(https://colorlib.com/wp/wp-content/uploads/sites/2/travel-agency-wordpress-themes-2.jpg.webp);
+	background-repeat: no repeat;
+	opacity:0.9;
+	background-size: 100%;
+	border:#fff;
+}
+.radius{
+	border-radius: 25px;
+	width: 300px;
+	height:30px;
+	border-color: red;
+	opacity: 0.5;
+
+}
+.main_line{
+	color: #000;
+	font-size:xxx-large;
+	font-weight: 900;
+	font-family: 'Mukta', sans-serif;
+}
+.login_box{
+	padding-top: 140px;
+	padding-left: 600px;
+
+}
+.Login_btn{
+	
+	border-radius: 25px;
+	width: 300px;
+	height:30px;
+
+	color: white;
+	background-color:rgba(255, 102, 102,1);
+	border: none;
+}
+.symbol{
+	text-decoration: none;
+}
+.Login_sft{
+	text-decoration: none;
+	color: #fff;
+}
+*::placeholder{
+	color:black;
+	font-weight: 200;
+}
+.link{
+	border-radius: 50%;
+	background-color:white;
+	margin-right: 20px;
+}
+.flex{
+	text-decoration: none;
+}
+.link_s{
+	margin-top:3px;
+}
+
+.padd{
+	font-family: 'Mukta', sans-serif;
+	margin-left:60px;
+
+}
+.sign_up{
+	text-decoration: none;
+	color:maroon;
+	cursor:pointer;
+	font-family: 'Mukta', sans-serif;
+	padding-left:110px;
+	padding-top: 8px;
+}
